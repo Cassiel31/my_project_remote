@@ -1,1 +1,1 @@
-print("utils ready")
+print('Utils function')
